@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="020f5553-5e43-4496-8c75-e6bf42f14db5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Project_School.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1X43XW6baualKa9SVwt3596EBh9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Desktop\pyprogs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Project_EmailSLicer">
+    <configuration name="GUI_billing_counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyprogs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\asus\Desktop\pyprogs\GUI_billing_counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GUI_calc_x" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyprogs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI_calc_x.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GUI_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyprogs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Project_EmailSLicer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyprogs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_EmailSLicer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Project_Rock_paper_scissor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyprogs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_Rock_paper_scissor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Project_EmailSLicer" />
+        <item itemvalue="Python.Project_Rock_paper_scissor" />
+        <item itemvalue="Python.GUI_calculator" />
+        <item itemvalue="Python.GUI_billing_counter" />
+        <item itemvalue="Python.GUI_calc_x" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="020f5553-5e43-4496-8c75-e6bf42f14db5" name="Default Changelist" comment="" />
+      <created>1580291581042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580291581042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="40" key="#GUI_calc_x" timestamp="1580478787197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="40" key="#GUI_calc_x/0.0.1536.824@0.0.1536.824" timestamp="1580478787197" />
+    <state x="502" y="67" key="#tempgui" timestamp="1580478759905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="67" key="#tempgui/0.0.1536.824@0.0.1536.824" timestamp="1580478759905" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580538444768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580538444768" />
+    <state width="1515" height="272" key="GridCell.Tab.0.bottom" timestamp="1582190374725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582190374725" />
+    <state width="1515" height="272" key="GridCell.Tab.0.center" timestamp="1582190374725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582190374725" />
+    <state width="1515" height="272" key="GridCell.Tab.0.left" timestamp="1582190374725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582190374725" />
+    <state width="1515" height="272" key="GridCell.Tab.0.right" timestamp="1582190374725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582190374725" />
+    <state width="1515" height="272" key="GridCell.Tab.1.bottom" timestamp="1582190374725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582190374725" />
+    <state width="1515" height="272" key="GridCell.Tab.1.center" timestamp="1582190374725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582190374725" />
+    <state width="1515" height="272" key="GridCell.Tab.1.left" timestamp="1582190374725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582190374725" />
+    <state width="1515" height="272" key="GridCell.Tab.1.right" timestamp="1582190374725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582190374725" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1581938865184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581938865184" />
+    <state x="247" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580292733591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="247" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1580292733591" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582025643927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582025643927" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/database/basic_database.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
